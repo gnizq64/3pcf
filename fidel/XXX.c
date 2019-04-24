@@ -1,35 +1,3 @@
-Inserted suggestion Hola Fidel
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-4 of 18,773
-(no subject)
-Inbox
-	x
-Fidel Sosa Nuñes via ugtomx.onmicrosoft.com 
-	
-Attachments11:17 (1 hour ago)
-	
-to Gustavo
-PROGRAMAS
-
-EL XXX.c es para obtener los DDD y los RRR
-El XXY.c es para correr los demas archivos
-El execute.exe, es el que ejecuta automaticamente estos programas. 
-
-Saludos
-3 Attachments
-	
-¡Gracias!
-Ok.
-OK, gracias.
-	
-	
-Compose:
-refs
-	MinimisePop-outClose
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
